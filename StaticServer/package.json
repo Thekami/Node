@@ -1,0 +1,21 @@
+{
+  "name": "servidor_estatico_prueba",
+  "version": "1.0.0",
+  "description": "preuba de creacion de un servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thekami/Node/tree/master/StaticServer"
+  },
+  "keywords": [
+    "prueba"
+  ],
+  "author": "Angel Torres",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^1.3.4"
+  }
+}
