@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "Mi primera app con node y express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thekami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
